@@ -39,7 +39,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 After following the steps above, the user will be prompted with several options to view information from the database, along with the ability to add or update employee details.
 
-# Image
+# image
+
+<img width="794" alt="sql-database-pic" src="https://github.com/isazafeer/employee-tracker-sql/assets/116819407/2691b46b-0eb9-4ed6-bab8-7fa9a7f096d6">
 
 
-# Link to walkthrough/showcase
+# link to walkthrough/showcase
+
+https://drive.google.com/file/d/1VzOUekPTz1IekV0b_RdYL0seFujW0Gix/view?usp=drive_link
